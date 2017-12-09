@@ -1,0 +1,25 @@
+{
+  "name": "react-human-time",
+  "version": "1.0.0",
+  "description": "React component that periodically calls human-time",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "compile": "tsc",
+    "test": "tape test.js",
+    "prepublishOnly": "npm run compile"
+  },
+  "author": "staltz.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^8.0.30",
+    "tape": "^4.8.0",
+    "typescript": "2.6.x",
+    "react-test-renderer": "^16.2.0"
+  },
+  "dependencies": {
+    "@types/react": "16.x",
+    "human-time": "0.0.1",
+    "react": "16.x"
+  }
+}
