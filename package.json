@@ -11,15 +11,15 @@
   },
   "author": "staltz.com",
   "license": "MIT",
+  "dependencies": {
+    "@types/react": ">=16.0.0",
+    "human-time": "0.0.1",
+    "react": ">=16.0.0"
+  },
   "devDependencies": {
     "@types/node": "^8.0.30",
     "tape": "^4.8.0",
     "typescript": "2.6.x",
-    "react-test-renderer": "^16.2.0"
-  },
-  "dependencies": {
-    "@types/react": "16.x",
-    "human-time": "0.0.1",
-    "react": "16.x"
+    "react-test-renderer": "^16.0.0"
   }
 }
