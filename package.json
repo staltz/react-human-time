@@ -4,6 +4,7 @@
   "description": "React component that periodically calls human-time",
   "main": "index.js",
   "typings": "index.d.ts",
+  "homepage": "https://github.com/staltz/react-human-time",
   "scripts": {
     "compile": "tsc",
     "test": "tape test.js",
