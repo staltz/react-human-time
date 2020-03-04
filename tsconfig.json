@@ -5,6 +5,7 @@
     "declaration": true,
     "sourceMap": true,
     "outDir": "./",
+    "skipLibCheck": true,
     "strict": true
   },
   "files": ["index.ts"]

@@ -1,5 +1,5 @@
 const test = require('tape');
-const React = require('React');
+const React = require('react');
 const HumanTime = require('./index').default;
 const TestRenderer = require('react-test-renderer');
 
