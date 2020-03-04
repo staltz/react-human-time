@@ -1,6 +1,6 @@
 {
   "name": "react-human-time",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "React component that periodically calls human-time",
   "main": "index.js",
   "typings": "index.d.ts",
